@@ -36,6 +36,7 @@ SystemCleaner.exe
 ### Method 2: Compile to EXE  
 Use Advanced BAT to EXE Converter:  
 > Download the tool and build the .exe
+> Tool can be found here https://www.battoexeconverter.com/
 
 ## 🛠️Downloading Pre-Built .exe
 > The prebuilt is also available as "SystemCleaner.exe" in both the repo and under releases section

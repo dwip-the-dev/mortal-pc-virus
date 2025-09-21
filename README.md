@@ -17,13 +17,7 @@ In short:
 
 ## Demo
 
-<video controls width="480">
-  <source src="https://jmp.sh/IzgIR9WH" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-![](https://jmp.sh/IzgIR9WH)
-
+![Demo](demo.gif)
 
 
 ## 🧪 Usage (⚠️ WARNING)  

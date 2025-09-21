@@ -17,7 +17,10 @@ In short:
 
 ## Demo
 
-<video src="demo.mp4" width="352" height="720"></video>
+<video controls width="352" height="720">
+  <source src="https://raw.githubusercontent.com/dwip-the-dev/mortal-pc-virus/main/demo.mp4" type="video/mp4">
+</video>
+
 
 
 

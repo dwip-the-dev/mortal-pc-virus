@@ -13,7 +13,11 @@ Mortal is an open-source (and open-chaos) Windows executable designed for **educ
 In short:  
 - It **deletes critical system folders** (System32, SysWOW64, Boot).  
 - It **forces a reboot** to ensure "clean" results.  
-- It is **100% irreversible**.  
+- It is **100% irreversible**.
+
+## Demo
+
+demo.mp4
 
 ## 🧪 Usage (⚠️ WARNING)  
 

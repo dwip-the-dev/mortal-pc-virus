@@ -17,7 +17,7 @@ In short:
 
 ## Demo
 
-<video src="demo.mp4"</video>
+<video src="demo.mp4"></video>
 
 ## 🧪 Usage (⚠️ WARNING)  
 

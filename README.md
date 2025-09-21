@@ -17,10 +17,12 @@ In short:
 
 ## Demo
 
-<video controls width="352" height="720">
-  <source src="https://github.com/dwip-the-dev/mortal-pc-virus/blob/main/demo.mp4" type="video/mp4">
+<video controls width="480">
+  <source src="https://jmp.sh/IzgIR9WH" type="video/mp4">
+  Your browser does not support the video tag.
 </video>
 
+![](https://jmp.sh/IzgIR9WH)
 
 
 
